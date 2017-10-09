@@ -1,4 +1,4 @@
-package indi.udp;
+package indi.udp.chat;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
